@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3477-fruits-into-baskets-ii](https://github.com/singhayush2858/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
