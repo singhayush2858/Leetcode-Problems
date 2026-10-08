@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
