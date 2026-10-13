@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
