@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/singhayush2858/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
