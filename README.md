@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -108,5 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
