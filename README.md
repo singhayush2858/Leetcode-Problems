@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/singhayush2858/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3477-fruits-into-baskets-ii](https://github.com/singhayush2858/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/singhayush2858/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/singhayush2858/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/singhayush2858/Leetcode-Problems/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/singhayush2858/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
